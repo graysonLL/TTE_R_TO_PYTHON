@@ -1,1 +1,2 @@
 # TTE_R_TO_PYTHON
+This project involves replicating the Target Trial Emulation (TTE) framework from the field of epidemiology and enhancing it by incorporating clustering techniques to explore novel insights. The original methodology aims to mitigate biases in traditional epidemiological study designs, and the objective of this assignment is to integrate clustering concepts to improve or expand upon the TTE framework.
